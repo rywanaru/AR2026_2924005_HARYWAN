@@ -8,6 +8,7 @@ TagManager:
   - Dirt
   - CinemachineTarget
   - Target
+  - Obstacle
   layers:
   - Default
   - TransparentFX
